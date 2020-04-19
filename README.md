@@ -1,6 +1,6 @@
 # CMU 11-785 Deep Learning Spring 2020 (Bhiksha Raj)
 
-This iteration of the course does not contain publically available/open-access videocasts of the lectures, and is therefore not suitable for self-study*. For those interested in self-studying this course, and who are not CMU students, please instead use the material contained at:
+This iteration of the course does not contain publically available/open-access videocasts of the lectures, and is therefore not suitable for self-study*. For those interested in self-studying this course, but are not CMU students, please instead use the material contained at:
 
 https://github.com/cyber-rhythms/cmu-11-785-deep-learning-spring-2019
 
