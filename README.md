@@ -29,6 +29,3 @@ Remarks:
 Lecture video links on YouTube - The uploaded video lecture list on YouTube is incomplete. Video lectures only cover from Lecture 0 (Logistics) until Lecture 19 (Hopfield Networks, March 25), and additionally, Lecture 23(Sizing neural network experiments, April 8); according to the course page. 
 
 Meaning that Lecture 20 (Hopfield Networks, Boltzmann Machines, Mar 30), Lecture 21 (Boltzmann Machines, Apr 1), Lecture 22 (Learning about Language with Normalising Flows, Apr 6) are all missing.
-
-As of 20th April 2020, Lecture 24 (Variational Autoencoders part 1, April 13), Lecture 25 (Variational Autoencoders part 2, April 15) have not been made publically available on Youtube.
-
